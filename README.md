@@ -11,9 +11,9 @@ N/A
 
 ## Usage
 
-###API Endpoints:
+### API Endpoints:
 
-####Users /api/users/
+#### Users /api/users/
 
 '/' : Get all Users
 
@@ -24,7 +24,7 @@ N/A
 '/:id/friends/:friendId' : add and remove friend by other userId
 
 
-####Thoughts /api/Thoughts
+#### Thoughts /api/Thoughts
 
 '/' : Get all Thoughts
 
